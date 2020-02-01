@@ -21,7 +21,7 @@ We plan to work with partners such as Octo Technology (smart contract developmen
 
 <p>This project will enable more scalability for Tezos bakers and will greatly enhance the transparency of the ecosystem./p>
 
-<h3>What is the market demand for your project?</h3>
+<h3>What is the market demand for this project?</h3>
 
 462 bakers according to Tezos explorer, about 30 of these are over-delegated and could be interested in such a solution. However, we believe that the demand might be even higher since if the self-bond is scalable, the solution might attract (i) more new bakers and (ii) current bakers who wish to get less exposure to the price of Tezos
 
